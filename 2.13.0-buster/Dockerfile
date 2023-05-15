@@ -1,4 +1,4 @@
-FROM ruby:3.1.4-bullseye
+FROM ruby:2.5.9-buster
 
 ENV HAKO_VERSION=2.13.0
 
